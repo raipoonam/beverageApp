@@ -1,0 +1,11 @@
+save new transection
+query for transection
+data=sample data
+[
+{
+  employeeId : 11111,
+  beverage : 'orange',
+  quantity : 1,
+  date : 2019-11-20T05:50:28.267Z
+};
+];
